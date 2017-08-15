@@ -1,6 +1,6 @@
 
 # Single-Pile_Nim_Game
-## Minh Do, Troy Ibanez, Angela Lam, Marcos Alvarez, Susan Lie.
+## SCU AMTH 377/ COEN 279: Minh Do, Troy Ibanez, Angela Lam, Marcos Alvarez, Susan Lie.
 
 This is an implementation of a Wining_Move function for a Single-Pile Nim Game.
 ### Overview¶ 
